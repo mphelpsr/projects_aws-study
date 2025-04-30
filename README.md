@@ -1,4 +1,4 @@
-# Estudos AWS - Certificação Developer Associate (DVA-C02) 🚀
+# Estudos AWS - Developer Associate (DVA-C02) 🚀
 
 Este repositório tem como objetivo consolidar os **estudos práticos e conceituais** para a certificação **AWS Certified Developer Associate (DVA-C02)**, utilizando exemplos reais implementados com **Spring Boot** e **LocalStack**.
 
