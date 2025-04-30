@@ -29,9 +29,23 @@
 
     <dependency>
       <groupId>io.awspring.cloud</groupId>
+      <artifactId>spring-cloud-aws-starter-sns</artifactId>
+      <version>3.0.1</version> <!-- ou superior -->
+    </dependency>
+
+
+    <dependency>
+      <groupId>io.awspring.cloud</groupId>
       <artifactId>spring-cloud-aws-starter-sqs</artifactId>
       <version>3.0.1</version>
     </dependency>
+
+    <dependency>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>sns</artifactId>
+      <version>2.20.135</version> <!-- use a versão estável mais recente -->
+    </dependency>
+
   </dependencies>
 
   <repositories>
