@@ -6,21 +6,29 @@ Material de estudo focado nos **Domínios 2 e 3** (52% da prova)
 
 ### ✅ Domínio 1: Fundamentos de IA e ML (20%)
 - `dominio1-questoes-fundamentos-ml.md` - 20 questões sobre tipos de aprendizado, ciclo de vida ML, serviços AWS
+- `dominio1-questoes-realista.md` - **NOVO:** 20 questões estilo prova real (cenários + Select TWO), com explicação de todas as alternativas
 
 ### ✅ Domínio 2: Fundamentos de IA Generativa (24%)
 - `dominio2-questoes-basicas.md` - 15 questões conceituais
+- `dominio2-questoes-realista.md` - **NOVO:** 20 questões estilo prova real (cenários + Select TWO), com explicação de todas as alternativas
 
 ### ✅ Domínio 3: Aplicações de Modelos de Fundação (28%)
 - `dominio3-questoes-prompt-engineering.md` - 20 questões sobre prompting e RAG
 - `dominio3-questoes-rag-finetuning.md` - 20 questões sobre RAG vs Fine-tuning
 - `dominio3-questoes-metricas-avaliacao.md` - 18 questões sobre métricas (ROUGE, BLEU, etc)
 - `dominio3-questoes-inferencia.md` - 16 questões sobre parâmetros (temperature, top_p, etc)
+- `dominio3-questoes-realista.md` - **NOVO:** 20 questões estilo prova real (cenários + Select TWO), com explicação de todas as alternativas
 
 ### ✅ Domínio 4: Diretrizes para IA Responsável (14%)
 - `dominio4-questoes-responsible-ai.md` - 15 questões sobre fairness, transparência, privacidade
+- `dominio4-questoes-realista.md` - **NOVO:** 20 questões estilo prova real (cenários + Select TWO), com explicação de todas as alternativas
 
 ### ✅ Domínio 5: Segurança, Conformidade e Governança (14%)
 - `dominio5-questoes-seguranca-governanca.md` - 15 questões sobre IAM, KMS, CloudTrail, conformidade
+- `dominio5-questoes-realista.md` - **NOVO:** 20 questões estilo prova real (cenários + Select TWO), com explicação de todas as alternativas
+
+### 🆕 Sobre os arquivos "-realista"
+Os 5 arquivos `dominioX-questoes-realista.md` foram criados para ficar o mais próximo possível do formato da prova real: questões em formato de cenário de negócio (não flashcards de definição), incluindo o formato "Selecione DUAS respostas" que aparece no exame real, e explicação de **todas** as alternativas — não só da correta, mas também do porquê cada distrator está errado.
 
 ### 🎯 SIMULADOS COMPLETOS (65 questões cada - PROVA REAL)
 - `simulado-completo-1.md` - 34 questões dos domínios 2 e 3 (52%)

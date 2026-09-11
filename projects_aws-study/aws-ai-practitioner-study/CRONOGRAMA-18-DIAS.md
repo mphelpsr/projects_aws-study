@@ -111,9 +111,13 @@
 - [ ] Refazer questões erradas da semana
 - [ ] Ler resumos dos arquivos
 - [ ] Fazer anotações de conceitos fracos
+- [ ] **NOVO:** Fazer `dominio2-questoes-realista.md` (20 questões, estilo prova real + Select TWO)
+- [ ] **NOVO:** Fazer `dominio3-questoes-realista.md` (20 questões, estilo prova real + Select TWO)
 - [ ] Descansar bem (amanhã é simulado!)
 
-**Tempo:** 1-2 horas
+**Por que os arquivos "-realista" agora:** eles têm cenários de negócio (como a prova real) em vez de flashcards, e explicam por que cada alternativa errada está errada — ideais para fechar a Semana 1 testando se o conceito foi realmente internalizado, não só memorizado.
+
+**Tempo:** 1.5-2.5 horas
 
 ---
 
@@ -144,6 +148,7 @@
 
 **Tarefas:**
 - [ ] Fazer `dominio1-questoes-fundamentos-ml.md` (20 questões)
+- [ ] **NOVO:** Fazer `dominio1-questoes-realista.md` (20 questões, estilo prova real + Select TWO)
 - [ ] **ATENÇÃO:** Revisar overfitting vs underfitting
 - [ ] Decorar serviços AWS AI/ML
 - [ ] Meta: 80%+ acertos
@@ -154,7 +159,7 @@
 - Classificação vs Regressão
 - Serviços: Comprehend, Rekognition, Textract, Transcribe, Polly, Lex, Forecast, Personalize
 
-**Tempo:** 1.5-2 horas
+**Tempo:** 2-2.5 horas
 
 ---
 
@@ -163,6 +168,7 @@
 
 **Tarefas:**
 - [ ] Fazer `dominio4-questoes-responsible-ai.md` (15 questões)
+- [ ] **NOVO:** Fazer `dominio4-questoes-realista.md` (20 questões, estilo prova real + Select TWO)
 - [ ] Revisar: Fairness, HITL, SageMaker Clarify
 - [ ] Meta: 85%+ acertos
 
@@ -174,7 +180,7 @@
 - Transparência, Explicabilidade
 - Model Cards
 
-**Tempo:** 1 hora
+**Tempo:** 1.5 horas
 
 ---
 
@@ -183,6 +189,7 @@
 
 **Tarefas:**
 - [ ] Fazer `dominio5-questoes-seguranca-governanca.md` (15 questões)
+- [ ] **NOVO:** Fazer `dominio5-questoes-realista.md` (20 questões, estilo prova real + Select TWO)
 - [ ] Decorar: IAM, KMS, CloudTrail, Macie
 - [ ] Meta: 85%+ acertos
 
@@ -195,7 +202,7 @@
 - Model Registry (governança)
 - Conformidade: HIPAA, GDPR, LGPD
 
-**Tempo:** 1 hora
+**Tempo:** 1.5 horas
 
 ---
 
@@ -205,6 +212,7 @@
 **Tarefas:**
 - [ ] Revisar TODOS os conceitos errados até agora
 - [ ] Refazer questões com <80% de acerto
+- [ ] **NOVO:** Refazer as questões erradas dos 5 arquivos `dominioX-questoes-realista.md` (são as mais próximas do formato real — priorize essas)
 - [ ] Ler `guia-completo-estudo.md` (seções relevantes)
 - [ ] Fazer anotações finais
 - [ ] Descansar (amanhã é simulado completo!)
@@ -284,6 +292,7 @@
 
 **Tarefas:**
 - [ ] Revisar rápido TODOS os arquivos de Domínio 2 e 3
+- [ ] **NOVO:** Refazer rapidamente `dominio2-questoes-realista.md` e `dominio3-questoes-realista.md`, focando nas que errou antes
 - [ ] Decorar componentes do Bedrock
 - [ ] Revisar pipeline RAG completo
 - [ ] Temperature, top_p, métricas: valores na ponta da língua
@@ -403,11 +412,13 @@
 
 ### Semana 1:
 - [ ] 89 questões dos Domínios 2 e 3
+- [ ] 40 questões "-realista" dos Domínios 2 e 3 (Dia 6)
 - [ ] Todos os conceitos-chave revisados
 
 ### Semana 2:
 - [ ] Simulado 1 completado (70%+)
 - [ ] 50 questões dos Domínios 1, 4, 5
+- [ ] 60 questões "-realista" dos Domínios 1, 4, 5 (Dias 8-10)
 - [ ] Simulado 2 completado (75%+)
 
 ### Semana 3:
@@ -428,7 +439,7 @@
 
 **Você tem:**
 - ✅ 18 dias de preparação estruturada
-- ✅ 169 questões de prática disponíveis
+- ✅ 269 questões de prática disponíveis (169 + 100 novas em formato "cenário real + Select TWO")
 - ✅ 3 simulados completos (condições reais)
 - ✅ Material cobrindo 100% da prova
 - ✅ 86.7% nos quizzes anteriores
